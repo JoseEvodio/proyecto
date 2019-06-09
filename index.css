@@ -1,0 +1,63 @@
+.text-platzi{
+	    color: #97c93e !important;
+}
+
+#header img{
+	width: 80px;
+}
+
+#main .carousel-inner img{
+	max-height: 70vh;
+	object-fit: cover;
+	filter: grayscale(00%);
+}
+
+#carousel .overlay{
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: rgba(0,0,0,0.5);
+	color: gray;
+}
+
+
+#carousel .overlay .container,
+#carousel .overlay .row{
+	height: 100%;
+}
+
+.btn-platzi{
+	background-color: #97c93e;
+	color: white;
+}
+
+.btn-platzi: hover {
+	background-color: : #82ad36
+}
+
+#place-time{
+	background-color: #343a40;
+	color: white;
+}
+#place-time img{
+	max-width: 100%;
+}
+
+#footer{
+	background: linear-gradient(90deg,#ff5733,#ff5733 25%,#ff5733);
+}
+
+#footer a {
+	color: white;
+}
+s
+#footers{
+	background: linear-gradient(90deg,#ff5733,#ff5733 25%,#ff5733);
+}
+
+#footers a {
+	color: white;
+}
+s
